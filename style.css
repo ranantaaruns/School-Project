@@ -1,0 +1,56 @@
+
+body {
+    font-family: 'poppins', sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 20px;
+}
+.Sigup{
+    margin-top: 150px;
+    padding: 20px;
+    background-color: hsl(167, 51%, 73%);
+    align-items: center;
+
+}
+label{
+    padding: 10px;
+
+}
+input{
+    
+    margin-right: 20px;
+    margin-left: 20px;
+    display: flex;
+    align-items: center;
+}
+img {
+    max-width: 100px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+.layar{
+text-align: center;
+    display:fixed;
+
+}
+a{
+    text-decoration: none;
+    
+}
+h1 {
+    color: #000000;
+    text-align: center;
+    margin : 1px 10px 1px;
+}
+
+ul li {
+    display: inline-block;
+    margin: 0 5px;
+    padding: 5px 10px;
+    background: #bec1c4;
+}
+
+input {
+    color: #000000;
+}
